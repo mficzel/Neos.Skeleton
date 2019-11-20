@@ -1,0 +1,8 @@
+'Neos.Skeleton:Content.Image':
+  superTypes:
+    'Neos.Neos:Content': true
+    'Neos.Skeleton:Mixin.Image': true
+  ui:
+    label: Image
+    icon: icon-picture
+    position: 300
